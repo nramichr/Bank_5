@@ -1,3 +1,6 @@
+Analyzing Mpox: Understanding Epidemiology, Public Health Impact, and Mitigation Strategies 
+
+
 These are all the files used for this project. 
 
 If there are any questions feel free to reach out and I'll answer them!
